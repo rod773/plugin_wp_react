@@ -1,0 +1,10 @@
+{
+  "name": "esal/plugin_wp_react",
+  "authors": [
+    {
+      "name": "rod7773",
+      "email": "rodrigoarcadio1@gmail.com"
+    }
+  ],
+  "require": {}
+}
