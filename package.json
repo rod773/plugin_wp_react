@@ -9,5 +9,8 @@
     "start": "wp-scripts start"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/scripts": "^27.3.0"
+  }
 }
